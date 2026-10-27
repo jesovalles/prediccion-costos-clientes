@@ -1,0 +1,23 @@
+# Entornos virtuales y archivos generados por Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Resultados temporales de pruebas y análisis de cobertura
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Secretos locales de Streamlit (no deben subirse al repositorio)
+.streamlit/secrets.toml
+
+# Archivos del sistema operativo y configuración local del editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

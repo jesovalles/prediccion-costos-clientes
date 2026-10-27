@@ -1,0 +1,11 @@
+# Configuración para ejecutar Streamlit sin abrir el navegador automáticamente.
+[server]
+headless = true
+
+# Colores generales de la interfaz.
+[theme]
+base = "light"
+primaryColor = "#1f77b4"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f2f5f9"
+textColor = "#17202a"

@@ -1,0 +1,18 @@
+# Manipulación y validación de datos
+numpy>=1.24
+pandas>=2.0
+
+# Pipelines y algoritmos de machine learning
+scikit-learn>=1.2
+
+# Aplicación web
+streamlit>=1.33
+
+# Análisis exploratorio del notebook EDA
+matplotlib>=3.7
+seaborn>=0.12
+scipy>=1.10
+ipython>=8.12
+
+# Pruebas automatizadas
+pytest>=7.0
